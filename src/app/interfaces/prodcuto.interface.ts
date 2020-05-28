@@ -1,6 +1,6 @@
 export interface Producto{
     categoria: string;
-    cog: string;
+    cod: string;
     titulo: string;
     url: string;
 }
